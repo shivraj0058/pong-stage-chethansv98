@@ -13,4 +13,3 @@ starts the game
   When: Player clicks on 'start game' button.
 
   Then: The module moves the ball from left to right.
-

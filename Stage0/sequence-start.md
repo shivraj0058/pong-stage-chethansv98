@@ -3,7 +3,7 @@
 ## Startup Sequence
 
 start-game-->strike-checker-->calculate-score-->
-proclaim-winner-->end-game 
+proclaim-winner-->end-game
 
 ## Movement Initiation
 

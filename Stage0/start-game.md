@@ -1,12 +1,10 @@
-# move the ball
-
 ## Feature
 
 starts the game
 
 ## Acceptance Criteria
 
-### Scenario: starts the game
+### Scenario: start the game
 
   Given: the player started the game.
   
